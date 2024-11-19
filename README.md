@@ -4,9 +4,11 @@
   <img src="https://render.gitanimals.org/lines/{hozi-yb}?pet-id=1" width="1000" height="120"/>
 </a>
 
-
-
 ## 깃 수업2
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{hozi-yb}"/>
+</a>
 
 ### 깃 수업3
 
