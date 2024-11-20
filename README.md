@@ -1,8 +1,14 @@
 # 깃 수업1
 
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{hozi-yb}?pet-id=1" width="1000" height="120"/>
+  <img
+    src="https://render.gitanimals.org/lines/hozi-yb?pet-id=646975433180699007"
+    width="600"
+    height="120"
+  />
 </a>
+  
 
 ## 깃 수업2
 
